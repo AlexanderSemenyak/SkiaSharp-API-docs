@@ -1,3 +1,5 @@
+orig: https://github.com/mono/SkiaSharp-API-docs
+
 # SkiaSharp and HarfBuzzSharp API Docs
 
 This repository contains the XML-based API Documentation for [SkiaSharp and HarfBuzzSharp](https://github.com/mono/SkiaSharp).
